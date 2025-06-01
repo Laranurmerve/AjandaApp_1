@@ -18,10 +18,6 @@
 3. `app.config` içindeki connection string'i kendine göre düzenle
 4. Uygulamayı çalıştır 🎉
 
-## 📷 Ekran Görüntüleri
-
-(Ekran görüntüsü ekleyeceğiz, aşağıda anlatıcam.)
-
 ## 📌 Not
 
 Bu proje mezuniyet projesi olarak geliştirilmiştir.
